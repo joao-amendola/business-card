@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    font-family: 'Cascadia Mono';
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #A53860;
+    background: #FFEEDB;
+    border-bottom: 8px solid #4C3B4D;
+    /* border-right: 8px solid #7161ef; */
+    border-radius: 10px;
+}
+
